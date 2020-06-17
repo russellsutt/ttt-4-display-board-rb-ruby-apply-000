@@ -1,4 +1,4 @@
-board = [""," "," "," "," "," "," "," "," "]
+board = ["X","X"," "," "," "," "," "," "," "]
 
 def display_board(board)
   puts "   |   |  "
